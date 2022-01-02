@@ -75,7 +75,6 @@ const Contacto = () => {
           <UserTable
             users={users}
             deleteUser={deleteUser}
-            //setEditing={setEditing}
             editRow={editRow}
           />
         </div>
